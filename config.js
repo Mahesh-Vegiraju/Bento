@@ -11,10 +11,10 @@ const CONFIG = {
   // └─┘┴ ┴└─┘┴└─┘└─┘
 
   // General
-  name: 'John',
+  name: 'Mahesh',
   imageBackground: false,
   openInNewTab: true,
-  twelveHourFormat: false,
+  twelveHourFormat: true,
 
   // Greetings
   greetingMorning: 'Good morning!',
@@ -72,7 +72,7 @@ const CONFIG = {
       id: '6',
       name: 'Odysee',
       icon: 'youtube',
-      link: 'https://odysee.com/',
+      link: 'https://youtube.com/',
     },
   ],
 
@@ -88,16 +88,16 @@ const CONFIG = {
   lists: {
     firstList: [
       {
-        name: 'Inspirational',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Monthly Budgeting',
+        link: 'https://docs.google.com/spreadsheets/d/1Fvo4RHBqO-1Ivby0Ge0GfA8pmgYJnP221pzl-y4OG20/edit#gid=0',
       },
       {
-        name: 'Classic',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Overleaf',
+        link: 'https://www.overleaf.com/project',
       },
       {
-        name: 'Oldies',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Bento',
+        link: 'https://github.com/Mahesh-Vegiraju/Bento,
       },
       {
         name: 'Rock',
@@ -110,16 +110,16 @@ const CONFIG = {
         link: 'https://linkedin.com/',
       },
       {
-        name: 'Figma',
-        link: 'https://figma.com/',
+        name: 'Handshake',
+        link: 'https://ucsc.joinhandshake.com/',
       },
       {
-        name: 'Dribbble',
-        link: 'https://dribbble.com',
+        name: 'Internships',
+        link: 'https://docs.google.com/spreadsheets/d/1APF_axZ9V4T7PABm-q7iV07AtPrUfj5BchPs8kySiVQ/edit#gid=0',
       },
       {
-        name: 'Telegram',
-        link: 'https://webk.telegram.org',
+        name: 'Resume',
+        link: 'https://docs.google.com/document/d/1M5hLFSvGNAvdi2IWL2488MKjcU2VaLYRiOUnnP5wCH0/edit',
       },
     ],
   },
