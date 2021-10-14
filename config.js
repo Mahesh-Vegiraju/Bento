@@ -97,7 +97,7 @@ const CONFIG = {
       },
       {
         name: 'Bento',
-        link: 'https://github.com/Mahesh-Vegiraju/Bento,
+        link: 'https://github.com/Mahesh-Vegiraju/Bento',
       },
       {
         name: 'Rock',
