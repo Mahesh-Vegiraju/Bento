@@ -47,7 +47,7 @@ const CONFIG = {
     {
       id: '2',
       name: 'CruzPay',
-      icon: 'money',
+      icon: 'calendar',
       link: 'https://time-entry-ucsc.wfsaas.com/workforce/Home.do?action=start',
     },
     {
