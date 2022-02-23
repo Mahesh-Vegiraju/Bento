@@ -46,15 +46,15 @@ const CONFIG = {
     },
     {
       id: '2',
-      name: 'Mail',
-      icon: 'mail',
-      link: 'https://mail.protonmail.com/',
+      name: 'CruzPay',
+      icon: 'money',
+      link: 'https://time-entry-ucsc.wfsaas.com/workforce/Home.do?action=start',
     },
     {
       id: '3',
-      name: 'Todoist',
+      name: 'UCPath',
       icon: 'trello',
-      link: 'https://calendar.google.com/calendar/r',
+      link: 'https://ucpath.universityofcalifornia.edu/personal-information/personal-information-summary',
     },
     {
       id: '4',
